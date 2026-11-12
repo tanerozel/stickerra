@@ -1,0 +1,402 @@
+{
+ "version": 1,
+ "updated": "2026-11-12",
+ "packs": [
+  {
+   "id": "rats",
+   "animated": true,
+   "new": true,
+   "names": {
+    "en": "Fighting Rats",
+    "tr": "Kavgacı Fareler",
+    "pt": "Ratos Brigões",
+    "es": "Ratas Peleoneras",
+    "id": "Tikus Petarung",
+    "hi": "लड़ाकू चूहे",
+    "ar": "فئران مقاتلة",
+    "de": "Kampfratten",
+    "fr": "Rats Bagarreurs",
+    "ru": "Крысы-драчуны",
+    "it": "Ratti Combattenti"
+   },
+   "files": {
+    "en": {
+     "zip": "rats/en.zip",
+     "size": 1602119
+    },
+    "tr": {
+     "zip": "rats/tr.zip",
+     "size": 1617124
+    },
+    "pt": {
+     "zip": "rats/pt.zip",
+     "size": 1637506
+    },
+    "es": {
+     "zip": "rats/es.zip",
+     "size": 1650064
+    },
+    "id": {
+     "zip": "rats/id.zip",
+     "size": 1607041
+    },
+    "hi": {
+     "zip": "rats/hi.zip",
+     "size": 1657571
+    },
+    "ar": {
+     "zip": "rats/ar.zip",
+     "size": 1745951
+    },
+    "de": {
+     "zip": "rats/de.zip",
+     "size": 1621464
+    },
+    "fr": {
+     "zip": "rats/fr.zip",
+     "size": 1679131
+    },
+    "ru": {
+     "zip": "rats/ru.zip",
+     "size": 1692782
+    },
+    "it": {
+     "zip": "rats/it.zip",
+     "size": 1629535
+    }
+   },
+   "count": 7,
+   "preview": "rats/preview.webp"
+  },
+  {
+   "id": "pati",
+   "animated": false,
+   "new": false,
+   "names": {
+    "en": "Pati · Reactions",
+    "tr": "Pati · Tepkiler",
+    "pt": "Pati · Reações",
+    "es": "Pati · Reacciones",
+    "id": "Pati · Reaksi",
+    "hi": "Pati · रिएक्शन",
+    "ar": "Pati · ردود فعل",
+    "de": "Pati · Reaktionen",
+    "fr": "Pati · Réactions",
+    "ru": "Pati · Реакции",
+    "it": "Pati · Reazioni"
+   },
+   "files": {
+    "en": {
+     "zip": "pati/en.zip",
+     "size": 344704
+    },
+    "tr": {
+     "zip": "pati/tr.zip",
+     "size": 356896
+    },
+    "pt": {
+     "zip": "pati/pt.zip",
+     "size": 363957
+    },
+    "es": {
+     "zip": "pati/es.zip",
+     "size": 364302
+    },
+    "id": {
+     "zip": "pati/id.zip",
+     "size": 365849
+    },
+    "hi": {
+     "zip": "pati/hi.zip",
+     "size": 357346
+    },
+    "ar": {
+     "zip": "pati/ar.zip",
+     "size": 350402
+    },
+    "de": {
+     "zip": "pati/de.zip",
+     "size": 369526
+    },
+    "fr": {
+     "zip": "pati/fr.zip",
+     "size": 364121
+    },
+    "ru": {
+     "zip": "pati/ru.zip",
+     "size": 360194
+    },
+    "it": {
+     "zip": "pati/it.zip",
+     "size": 357422
+    }
+   },
+   "count": 12,
+   "preview": "pati/preview.webp"
+  },
+  {
+   "id": "boncuk",
+   "animated": false,
+   "new": false,
+   "names": {
+    "en": "Boncuk · Daily",
+    "tr": "Boncuk · Günlük",
+    "pt": "Boncuk · Dia a dia",
+    "es": "Boncuk · Día a día",
+    "id": "Boncuk · Sehari-hari",
+    "hi": "Boncuk · रोज़ाना",
+    "ar": "Boncuk · يوميات",
+    "de": "Boncuk · Alltag",
+    "fr": "Boncuk · Quotidien",
+    "ru": "Boncuk · На каждый день",
+    "it": "Boncuk · Quotidiano"
+   },
+   "files": {
+    "en": {
+     "zip": "boncuk/en.zip",
+     "size": 386143
+    },
+    "tr": {
+     "zip": "boncuk/tr.zip",
+     "size": 385128
+    },
+    "pt": {
+     "zip": "boncuk/pt.zip",
+     "size": 386151
+    },
+    "es": {
+     "zip": "boncuk/es.zip",
+     "size": 390610
+    },
+    "id": {
+     "zip": "boncuk/id.zip",
+     "size": 385318
+    },
+    "hi": {
+     "zip": "boncuk/hi.zip",
+     "size": 384472
+    },
+    "ar": {
+     "zip": "boncuk/ar.zip",
+     "size": 374719
+    },
+    "de": {
+     "zip": "boncuk/de.zip",
+     "size": 392470
+    },
+    "fr": {
+     "zip": "boncuk/fr.zip",
+     "size": 383779
+    },
+    "ru": {
+     "zip": "boncuk/ru.zip",
+     "size": 385105
+    },
+    "it": {
+     "zip": "boncuk/it.zip",
+     "size": 379645
+    }
+   },
+   "count": 12,
+   "preview": "boncuk/preview.webp"
+  },
+  {
+   "id": "words",
+   "animated": false,
+   "new": false,
+   "names": {
+    "en": "Reaction Words",
+    "tr": "Tepki Yazıları",
+    "pt": "Palavras de Reação",
+    "es": "Palabras de Reacción",
+    "id": "Kata Reaksi",
+    "hi": "रिएक्शन शब्द",
+    "ar": "كلمات تفاعل",
+    "de": "Reaktionswörter",
+    "fr": "Mots Réactions",
+    "ru": "Слова-реакции",
+    "it": "Parole Reazione"
+   },
+   "files": {
+    "en": {
+     "zip": "words/en.zip",
+     "size": 243862
+    },
+    "tr": {
+     "zip": "words/tr.zip",
+     "size": 241882
+    },
+    "pt": {
+     "zip": "words/pt.zip",
+     "size": 245808
+    },
+    "es": {
+     "zip": "words/es.zip",
+     "size": 248105
+    },
+    "id": {
+     "zip": "words/id.zip",
+     "size": 243206
+    },
+    "hi": {
+     "zip": "words/hi.zip",
+     "size": 255510
+    },
+    "ar": {
+     "zip": "words/ar.zip",
+     "size": 273555
+    },
+    "de": {
+     "zip": "words/de.zip",
+     "size": 244698
+    },
+    "fr": {
+     "zip": "words/fr.zip",
+     "size": 246013
+    },
+    "ru": {
+     "zip": "words/ru.zip",
+     "size": 258681
+    },
+    "it": {
+     "zip": "words/it.zip",
+     "size": 248469
+    }
+   },
+   "count": 12,
+   "preview": "words/preview.webp"
+  },
+  {
+   "id": "pati-anim",
+   "animated": true,
+   "new": false,
+   "names": {
+    "en": "Pati · Animated",
+    "tr": "Pati · Hareketli",
+    "pt": "Pati · Animadas",
+    "es": "Pati · Animados",
+    "id": "Pati · Animasi",
+    "hi": "Pati · एनिमेटेड",
+    "ar": "Pati · متحركة",
+    "de": "Pati · Animiert",
+    "fr": "Pati · Animés",
+    "ru": "Pati · Анимация",
+    "it": "Pati · Animati"
+   },
+   "files": {
+    "en": {
+     "zip": "pati-anim/en.zip",
+     "size": 2492323
+    },
+    "tr": {
+     "zip": "pati-anim/tr.zip",
+     "size": 2566051
+    },
+    "pt": {
+     "zip": "pati-anim/pt.zip",
+     "size": 2402489
+    },
+    "es": {
+     "zip": "pati-anim/es.zip",
+     "size": 2555353
+    },
+    "id": {
+     "zip": "pati-anim/id.zip",
+     "size": 2588174
+    },
+    "hi": {
+     "zip": "pati-anim/hi.zip",
+     "size": 2509672
+    },
+    "ar": {
+     "zip": "pati-anim/ar.zip",
+     "size": 2522812
+    },
+    "de": {
+     "zip": "pati-anim/de.zip",
+     "size": 2548060
+    },
+    "fr": {
+     "zip": "pati-anim/fr.zip",
+     "size": 2569218
+    },
+    "ru": {
+     "zip": "pati-anim/ru.zip",
+     "size": 2583815
+    },
+    "it": {
+     "zip": "pati-anim/it.zip",
+     "size": 2475827
+    }
+   },
+   "count": 8,
+   "preview": "pati-anim/preview.webp"
+  },
+  {
+   "id": "boncuk-anim",
+   "animated": true,
+   "new": false,
+   "names": {
+    "en": "Boncuk · Animated",
+    "tr": "Boncuk · Hareketli",
+    "pt": "Boncuk · Animadas",
+    "es": "Boncuk · Animados",
+    "id": "Boncuk · Animasi",
+    "hi": "Boncuk · एनिमेटेड",
+    "ar": "Boncuk · متحركة",
+    "de": "Boncuk · Animiert",
+    "fr": "Boncuk · Animés",
+    "ru": "Boncuk · Анимация",
+    "it": "Boncuk · Animati"
+   },
+   "files": {
+    "en": {
+     "zip": "boncuk-anim/en.zip",
+     "size": 2507644
+    },
+    "tr": {
+     "zip": "boncuk-anim/tr.zip",
+     "size": 2496152
+    },
+    "pt": {
+     "zip": "boncuk-anim/pt.zip",
+     "size": 2609759
+    },
+    "es": {
+     "zip": "boncuk-anim/es.zip",
+     "size": 2519414
+    },
+    "id": {
+     "zip": "boncuk-anim/id.zip",
+     "size": 2504569
+    },
+    "hi": {
+     "zip": "boncuk-anim/hi.zip",
+     "size": 2583442
+    },
+    "ar": {
+     "zip": "boncuk-anim/ar.zip",
+     "size": 2489813
+    },
+    "de": {
+     "zip": "boncuk-anim/de.zip",
+     "size": 2594353
+    },
+    "fr": {
+     "zip": "boncuk-anim/fr.zip",
+     "size": 2560368
+    },
+    "ru": {
+     "zip": "boncuk-anim/ru.zip",
+     "size": 2601082
+    },
+    "it": {
+     "zip": "boncuk-anim/it.zip",
+     "size": 2582226
+    }
+   },
+   "count": 8,
+   "preview": "boncuk-anim/preview.webp"
+  }
+ ]
+}
