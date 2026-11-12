@@ -22,47 +22,58 @@
    "files": {
     "en": {
      "zip": "rats/en.zip",
-     "size": 1602119
+     "size": 1602119,
+     "preview": "rats/en.webp"
     },
     "tr": {
      "zip": "rats/tr.zip",
-     "size": 1617124
+     "size": 1617124,
+     "preview": "rats/tr.webp"
     },
     "pt": {
      "zip": "rats/pt.zip",
-     "size": 1637506
+     "size": 1637506,
+     "preview": "rats/pt.webp"
     },
     "es": {
      "zip": "rats/es.zip",
-     "size": 1650064
+     "size": 1650064,
+     "preview": "rats/es.webp"
     },
     "id": {
      "zip": "rats/id.zip",
-     "size": 1607041
+     "size": 1607041,
+     "preview": "rats/id.webp"
     },
     "hi": {
      "zip": "rats/hi.zip",
-     "size": 1657571
+     "size": 1657571,
+     "preview": "rats/hi.webp"
     },
     "ar": {
      "zip": "rats/ar.zip",
-     "size": 1745951
+     "size": 1745951,
+     "preview": "rats/ar.webp"
     },
     "de": {
      "zip": "rats/de.zip",
-     "size": 1621464
+     "size": 1621464,
+     "preview": "rats/de.webp"
     },
     "fr": {
      "zip": "rats/fr.zip",
-     "size": 1679131
+     "size": 1679131,
+     "preview": "rats/fr.webp"
     },
     "ru": {
      "zip": "rats/ru.zip",
-     "size": 1692782
+     "size": 1692782,
+     "preview": "rats/ru.webp"
     },
     "it": {
      "zip": "rats/it.zip",
-     "size": 1629535
+     "size": 1629535,
+     "preview": "rats/it.webp"
     }
    },
    "count": 7,
@@ -88,47 +99,58 @@
    "files": {
     "en": {
      "zip": "pati/en.zip",
-     "size": 344704
+     "size": 344704,
+     "preview": "pati/en.webp"
     },
     "tr": {
      "zip": "pati/tr.zip",
-     "size": 356896
+     "size": 356896,
+     "preview": "pati/tr.webp"
     },
     "pt": {
      "zip": "pati/pt.zip",
-     "size": 363957
+     "size": 363957,
+     "preview": "pati/pt.webp"
     },
     "es": {
      "zip": "pati/es.zip",
-     "size": 364302
+     "size": 364302,
+     "preview": "pati/es.webp"
     },
     "id": {
      "zip": "pati/id.zip",
-     "size": 365849
+     "size": 365849,
+     "preview": "pati/id.webp"
     },
     "hi": {
      "zip": "pati/hi.zip",
-     "size": 357346
+     "size": 357346,
+     "preview": "pati/hi.webp"
     },
     "ar": {
      "zip": "pati/ar.zip",
-     "size": 350402
+     "size": 350402,
+     "preview": "pati/ar.webp"
     },
     "de": {
      "zip": "pati/de.zip",
-     "size": 369526
+     "size": 369526,
+     "preview": "pati/de.webp"
     },
     "fr": {
      "zip": "pati/fr.zip",
-     "size": 364121
+     "size": 364121,
+     "preview": "pati/fr.webp"
     },
     "ru": {
      "zip": "pati/ru.zip",
-     "size": 360194
+     "size": 360194,
+     "preview": "pati/ru.webp"
     },
     "it": {
      "zip": "pati/it.zip",
-     "size": 357422
+     "size": 357422,
+     "preview": "pati/it.webp"
     }
    },
    "count": 12,
@@ -154,47 +176,58 @@
    "files": {
     "en": {
      "zip": "boncuk/en.zip",
-     "size": 386143
+     "size": 386143,
+     "preview": "boncuk/en.webp"
     },
     "tr": {
      "zip": "boncuk/tr.zip",
-     "size": 385128
+     "size": 385128,
+     "preview": "boncuk/tr.webp"
     },
     "pt": {
      "zip": "boncuk/pt.zip",
-     "size": 386151
+     "size": 386151,
+     "preview": "boncuk/pt.webp"
     },
     "es": {
      "zip": "boncuk/es.zip",
-     "size": 390610
+     "size": 390610,
+     "preview": "boncuk/es.webp"
     },
     "id": {
      "zip": "boncuk/id.zip",
-     "size": 385318
+     "size": 385318,
+     "preview": "boncuk/id.webp"
     },
     "hi": {
      "zip": "boncuk/hi.zip",
-     "size": 384472
+     "size": 384472,
+     "preview": "boncuk/hi.webp"
     },
     "ar": {
      "zip": "boncuk/ar.zip",
-     "size": 374719
+     "size": 374719,
+     "preview": "boncuk/ar.webp"
     },
     "de": {
      "zip": "boncuk/de.zip",
-     "size": 392470
+     "size": 392470,
+     "preview": "boncuk/de.webp"
     },
     "fr": {
      "zip": "boncuk/fr.zip",
-     "size": 383779
+     "size": 383779,
+     "preview": "boncuk/fr.webp"
     },
     "ru": {
      "zip": "boncuk/ru.zip",
-     "size": 385105
+     "size": 385105,
+     "preview": "boncuk/ru.webp"
     },
     "it": {
      "zip": "boncuk/it.zip",
-     "size": 379645
+     "size": 379645,
+     "preview": "boncuk/it.webp"
     }
    },
    "count": 12,
@@ -220,47 +253,58 @@
    "files": {
     "en": {
      "zip": "words/en.zip",
-     "size": 243862
+     "size": 243862,
+     "preview": "words/en.webp"
     },
     "tr": {
      "zip": "words/tr.zip",
-     "size": 241882
+     "size": 241882,
+     "preview": "words/tr.webp"
     },
     "pt": {
      "zip": "words/pt.zip",
-     "size": 245808
+     "size": 245808,
+     "preview": "words/pt.webp"
     },
     "es": {
      "zip": "words/es.zip",
-     "size": 248105
+     "size": 248105,
+     "preview": "words/es.webp"
     },
     "id": {
      "zip": "words/id.zip",
-     "size": 243206
+     "size": 243206,
+     "preview": "words/id.webp"
     },
     "hi": {
      "zip": "words/hi.zip",
-     "size": 255510
+     "size": 255510,
+     "preview": "words/hi.webp"
     },
     "ar": {
      "zip": "words/ar.zip",
-     "size": 273555
+     "size": 273555,
+     "preview": "words/ar.webp"
     },
     "de": {
      "zip": "words/de.zip",
-     "size": 244698
+     "size": 244698,
+     "preview": "words/de.webp"
     },
     "fr": {
      "zip": "words/fr.zip",
-     "size": 246013
+     "size": 246013,
+     "preview": "words/fr.webp"
     },
     "ru": {
      "zip": "words/ru.zip",
-     "size": 258681
+     "size": 258681,
+     "preview": "words/ru.webp"
     },
     "it": {
      "zip": "words/it.zip",
-     "size": 248469
+     "size": 248469,
+     "preview": "words/it.webp"
     }
    },
    "count": 12,
@@ -286,47 +330,58 @@
    "files": {
     "en": {
      "zip": "pati-anim/en.zip",
-     "size": 2492323
+     "size": 2492323,
+     "preview": "pati-anim/en.webp"
     },
     "tr": {
      "zip": "pati-anim/tr.zip",
-     "size": 2566051
+     "size": 2566051,
+     "preview": "pati-anim/tr.webp"
     },
     "pt": {
      "zip": "pati-anim/pt.zip",
-     "size": 2402489
+     "size": 2402489,
+     "preview": "pati-anim/pt.webp"
     },
     "es": {
      "zip": "pati-anim/es.zip",
-     "size": 2555353
+     "size": 2555353,
+     "preview": "pati-anim/es.webp"
     },
     "id": {
      "zip": "pati-anim/id.zip",
-     "size": 2588174
+     "size": 2588174,
+     "preview": "pati-anim/id.webp"
     },
     "hi": {
      "zip": "pati-anim/hi.zip",
-     "size": 2509672
+     "size": 2509672,
+     "preview": "pati-anim/hi.webp"
     },
     "ar": {
      "zip": "pati-anim/ar.zip",
-     "size": 2522812
+     "size": 2522812,
+     "preview": "pati-anim/ar.webp"
     },
     "de": {
      "zip": "pati-anim/de.zip",
-     "size": 2548060
+     "size": 2548060,
+     "preview": "pati-anim/de.webp"
     },
     "fr": {
      "zip": "pati-anim/fr.zip",
-     "size": 2569218
+     "size": 2569218,
+     "preview": "pati-anim/fr.webp"
     },
     "ru": {
      "zip": "pati-anim/ru.zip",
-     "size": 2583815
+     "size": 2583815,
+     "preview": "pati-anim/ru.webp"
     },
     "it": {
      "zip": "pati-anim/it.zip",
-     "size": 2475827
+     "size": 2475827,
+     "preview": "pati-anim/it.webp"
     }
    },
    "count": 8,
@@ -352,47 +407,58 @@
    "files": {
     "en": {
      "zip": "boncuk-anim/en.zip",
-     "size": 2507644
+     "size": 2507644,
+     "preview": "boncuk-anim/en.webp"
     },
     "tr": {
      "zip": "boncuk-anim/tr.zip",
-     "size": 2496152
+     "size": 2496152,
+     "preview": "boncuk-anim/tr.webp"
     },
     "pt": {
      "zip": "boncuk-anim/pt.zip",
-     "size": 2609759
+     "size": 2609759,
+     "preview": "boncuk-anim/pt.webp"
     },
     "es": {
      "zip": "boncuk-anim/es.zip",
-     "size": 2519414
+     "size": 2519414,
+     "preview": "boncuk-anim/es.webp"
     },
     "id": {
      "zip": "boncuk-anim/id.zip",
-     "size": 2504569
+     "size": 2504569,
+     "preview": "boncuk-anim/id.webp"
     },
     "hi": {
      "zip": "boncuk-anim/hi.zip",
-     "size": 2583442
+     "size": 2583442,
+     "preview": "boncuk-anim/hi.webp"
     },
     "ar": {
      "zip": "boncuk-anim/ar.zip",
-     "size": 2489813
+     "size": 2489813,
+     "preview": "boncuk-anim/ar.webp"
     },
     "de": {
      "zip": "boncuk-anim/de.zip",
-     "size": 2594353
+     "size": 2594353,
+     "preview": "boncuk-anim/de.webp"
     },
     "fr": {
      "zip": "boncuk-anim/fr.zip",
-     "size": 2560368
+     "size": 2560368,
+     "preview": "boncuk-anim/fr.webp"
     },
     "ru": {
      "zip": "boncuk-anim/ru.zip",
-     "size": 2601082
+     "size": 2601082,
+     "preview": "boncuk-anim/ru.webp"
     },
     "it": {
      "zip": "boncuk-anim/it.zip",
-     "size": 2582226
+     "size": 2582226,
+     "preview": "boncuk-anim/it.webp"
     }
    },
    "count": 8,
